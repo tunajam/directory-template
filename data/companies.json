@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Example Company",
+    "slug": "example-company-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 555-0100",
+    "website": "https://example.com",
+    "address": "123 Main St, Austin, TX 78701",
+    "description": "A reliable local service provider serving the Austin area for over 10 years.",
+    "services": [
+      { "value": 10, "price_range": "$250–$350" },
+      { "value": 20, "price_range": "$350–$500" },
+      { "value": 30, "price_range": "$450–$650" }
+    ],
+    "amenities": ["Same Day Delivery", "Weekend Availability"],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 42,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Second Example Co",
+    "slug": "second-example-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 555-0200",
+    "website": "https://example2.com",
+    "address": "456 Oak Ave, Austin, TX 78702",
+    "description": "Family-owned business providing quality service at competitive prices.",
+    "services": [
+      { "value": 10, "price_range": "$200–$300" },
+      { "value": 20, "price_range": "$300–$450" }
+    ],
+    "amenities": ["Free Delivery"],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 67,
+    "verified": true,
+    "pricing_estimated": false
+  }
+]

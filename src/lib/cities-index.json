@@ -1,0 +1,4 @@
+[
+  { "city": "Austin", "city_slug": "austin", "state": "Texas", "state_slug": "texas" },
+  { "city": "Denver", "city_slug": "denver", "state": "Colorado", "state_slug": "colorado" }
+]
